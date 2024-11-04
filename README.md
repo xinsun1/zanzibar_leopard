@@ -10,32 +10,19 @@ Sun, Xin, Emily Louisa Cavill, Ashot Margaryan, Jianqing Lin, Søren Thingaard, 
 # Questions
 Please put on an issue if you have any questions. I will answer it at the first available time.
 
-# 
-#### 1. Raw data description
+# Code instruction
+Bash scripts in `src/bash`. Including the following major analysis:
+    1. Raw data description
+    2. mapping and filtering
+    3. pcangsd/MDS
+    4. ngsadmix
+    5. hpsmc and psmc
+    6. IBS
+    7. phylogeny
+    8. genetic load
+    9. RoH
+    10. Heterozygosity
 
-#### 2. mapping and filtering
-
-
-#### 3. pcangsd/MDS
-
-
-#### 4. ngsadmix
-
-
-#### 5. hpsmc and psmc
-
-
-#### 6. IBS
-
-
-#### 7. phylogeny
-
-
-#### 8. genetic load
-
-#### 9. RoH
-
-
-#### 10. Heterozygosity
+Rscripts in `src/rscript` contains scripts for our figures.
 
 
